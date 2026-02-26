@@ -1,0 +1,1 @@
+this is a feature 3, and i have edit this file so as to practiced git amend, the file may return to unstage area 
