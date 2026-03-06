@@ -14,7 +14,7 @@ pipeline {
         }
          stage('Depoly') {
             steps {
-                echo 'Depolying an app from Jenkins!'
+                echo 'Depolying an app from Jenkins today!'
             }
         }
     }
